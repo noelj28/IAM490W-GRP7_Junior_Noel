@@ -1,0 +1,25 @@
+﻿campaign_id,name,type,start_date,end_date,goal_amount,description
+1,Earth Protectors Annual Fund,Annual,2022-03-26,2023-03-26,1000000,Campaign for Earth Protectors Annual Fund
+2,Wildlands Corridor Acquisition,Capital,2023-05-02,2025-05-01,1000000,Campaign for Wildlands Corridor Acquisition
+3,Forest Fire Recovery,Special,2021-05-19,2021-11-15,50000,Campaign for Forest Fire Recovery
+4,Ocean Plastics Initiative,Program,2023-09-07,2024-03-05,50000,Campaign for Ocean Plastics Initiative
+5,Endangered Species Protection,Special,2023-09-24,2024-03-22,50000,Campaign for Endangered Species Protection
+6,Youth Environmental Leadership,Program,2024-03-20,2024-09-16,250000,Campaign for Youth Environmental Leadership
+7,Native Plant Restoration,Program,2023-05-14,2023-11-10,100000,Campaign for Native Plant Restoration
+8,Clean Water Action,Special,2022-07-02,2022-12-29,100000,Campaign for Clean Water Action
+9,Conservation Science Center,Capital,2023-03-22,2025-03-21,250000,Campaign for Conservation Science Center
+10,Year-End Sustainability Drive,Annual,2024-01-04,2025-01-03,1000000,Campaign for Year-End Sustainability Drive
+11,Community Garden Network,Program,2024-10-20,2025-04-18,1000000,Campaign for Community Garden Network
+12,Renewable Energy Transition,Special,2024-12-17,2025-06-15,500000,Campaign for Renewable Energy Transition
+13,Green Gala Annual Dinner,Event,2023-11-25,2024-05-23,100000,Campaign for Green Gala Annual Dinner
+14,Trail Blazer 5K Run/Walk,Event,2024-12-07,2025-06-05,500000,Campaign for Trail Blazer 5K Run/Walk
+15,Hike-a-Thon: Miles for Wildlife,Event,2024-05-18,2024-11-14,50000,Campaign for Hike-a-Thon: Miles for Wildlife
+16,Eco Film Festival,Event,2021-02-05,2021-08-04,1000000,Campaign for Eco Film Festival
+17,River Cleanup Day,Event,2024-06-23,2024-12-20,500000,Campaign for River Cleanup Day
+18,Sustainable Living Expo,Event,2023-03-26,2023-09-22,500000,Campaign for Sustainable Living Expo
+19,Polar Plunge for Climate Action,Event,2024-08-10,2025-02-06,500000,Campaign for Polar Plunge for Climate Action
+20,Cycling for Conservation,Event,2021-02-18,2021-08-17,50000,Campaign for Cycling for Conservation
+21,Moonlight Paddle Fundraiser,Event,2021-12-04,2022-06-02,50000,Campaign for Moonlight Paddle Fundraiser
+22,Bird-a-Thon Counting Challenge,Event,2021-07-09,2022-01-05,250000,Campaign for Bird-a-Thon Counting Challenge
+23,Tree Planting Day,Event,2022-11-14,2023-05-13,500000,Campaign for Tree Planting Day
+24,Nature Photography Auction,Event,2021-08-14,2022-02-10,100000,Campaign for Nature Photography Auction
